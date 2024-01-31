@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Contact me: pcj9024@gmail.com
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=orlein)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=orlein)](https://github.com/anuraghazra/github-readme-stats)
@@ -30,3 +32,39 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Abilities
+
+## FrontEnd Developments
+  * React.js WebApp Developments
+  * ReactNative MobileApp Developments
+## BackEnd Developments
+  * Node.js(Express.js, Nest.js) Server Developments
+## Design
+  * Database Table Design
+  * Cloud Architecture Design
+  * IT Service Design
+## Dev Team Leading
+  * Leading FE Development
+    * Disconnecting Components
+    * Presenting a component reuse guide
+    * Presentation of coding guides
+    * Code review
+    * Code Quality Management
+    * Testing
+  * Leading BE Development
+    * API Design
+    * API documentation
+    * Code review
+    * Code Quality Management
+    * Testing
+  * DevOps
+    * Deploying CI/CD Pipeline
+    * Test Automation
+    * Automate Deployment
+    
+
+
+Contact me: pcj9024@gmail.com
+
+
