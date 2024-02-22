@@ -2,6 +2,8 @@
 
 Contact me: pcj9024@gmail.com
 
+<a href="https://app.daily.dev/orlein"><img src="https://api.daily.dev/devcards/v2/3d11Xi6AZkHTPlmsO8Cx9.png?r=05d" width="356" alt="orlein's Dev Card"/></a>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=orlein)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=orlein)](https://github.com/anuraghazra/github-readme-stats)
